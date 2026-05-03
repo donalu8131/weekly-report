@@ -1,0 +1,18 @@
+[
+  {
+    "id": "f39ffb4e",
+    "name": "卢彩霞",
+    "department": "技术部",
+    "password": "",
+    "createdAt": "2026-05-03T10:26:46.670957",
+    "lastLoginAt": "2026-05-03T10:26:46.670998"
+  },
+  {
+    "id": "840dd273",
+    "name": "刘明明",
+    "department": "市场部",
+    "password": "",
+    "createdAt": "2026-05-03T10:34:38.904575",
+    "lastLoginAt": "2026-05-03T10:34:38.904597"
+  }
+]

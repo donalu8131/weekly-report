@@ -1,0 +1,61 @@
+{
+  "employeeId": "f39ffb4e",
+  "employeeName": "卢彩霞",
+  "department": "技术部",
+  "analysisDate": "2026-05-03T10:33:58.780722",
+  "reportCount": 1,
+  "dateRange": "2026-04-27 ~ 2026-05-03",
+  "overallScore": 22,
+  "performanceLevel": "C",
+  "summary": {
+    "totalTasks": 3,
+    "totalCompleted": 0,
+    "completionRate": "0%",
+    "totalReports": 1,
+    "weeksActive": 1,
+    "strengths": [],
+    "improvements": [
+      "创新与改进",
+      "任务完成率",
+      "周报规范填写"
+    ]
+  },
+  "keywordAnalysis": {
+    "technical": 0,
+    "management": 0,
+    "business": 0,
+    "innovation": 0
+  },
+  "trendData": [
+    {
+      "week": "2026-04-27 ~ 2026-05-03",
+      "taskCount": 3,
+      "hasKeyResults": true,
+      "issuesCount": 1
+    }
+  ],
+  "detailedComment": "需要改进，部分任务未达到预期。建议与管理层沟通目标对齐，制定明确的改进计划。",
+  "suggestions": [
+    "建议发掘和明确个人优势领域",
+    "改进方向：创新与改进、任务完成率、周报规范填写",
+    "建议每周围绕 3 个核心任务展开工作",
+    "关注关键成果的输出，将工作内容与团队目标对齐"
+  ],
+  "weeklySummaries": [
+    {
+      "week": "2026-04-27 ~ 2026-05-03",
+      "tasks": [
+        "1、我用徐亮给我的账号，成功科学上网，登录上google；",
+        "2、我安装了claude code，在苹果电脑上装了app，并且在teminal上npm安装了；",
+        "3、我用claude code编写了第一个网页填报程序。"
+      ],
+      "keyResults": [
+        "1、科学上网成功；",
+        "2、网页构建成功，并在本机启动。"
+      ],
+      "issues": [
+        "无"
+      ]
+    }
+  ]
+}

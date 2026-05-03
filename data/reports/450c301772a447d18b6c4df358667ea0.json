@@ -1,0 +1,26 @@
+{
+  "id": "450c301772a447d18b6c4df358667ea0",
+  "employeeId": "f39ffb4e",
+  "employeeName": "卢彩霞",
+  "department": "技术部",
+  "weekStart": "2026-04-27",
+  "weekEnd": "2026-05-03",
+  "weekLabel": "2026-04-27 ~ 2026-05-03",
+  "tasks": [
+    "1、我用徐亮给我的账号，成功科学上网，登录上google；",
+    "2、我安装了claude code，在苹果电脑上装了app，并且在teminal上npm安装了；",
+    "3、我用claude code编写了第一个网页填报程序。"
+  ],
+  "keyResults": [
+    "1、科学上网成功；",
+    "2、网页构建成功，并在本机启动。"
+  ],
+  "nextWeekPlan": [
+    "1、继续安装复杂程序"
+  ],
+  "issues": [
+    "无"
+  ],
+  "createdAt": "2026-05-03T10:29:59.420084",
+  "updatedAt": "2026-05-03T10:33:27.870355"
+}
